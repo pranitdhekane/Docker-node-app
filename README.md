@@ -40,8 +40,8 @@ docker-node-app/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/pranitdhekane/docker.git
-cd docker/docker-node-app
+git clone https://github.com/pranitdhekane/docker-node-app.git
+cd docker-node-app
 ```
 
 ---
